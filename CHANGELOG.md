@@ -1,5 +1,17 @@
 # Changelog
 
+### 3.1.3
+
+* Added support for React 16
+
+### 3.1.2
+
+* No meaningful changes.
+
+### 3.1.1
+
+* No meaningful changes.
+
 ### 3.1.0
 
 * `Dispatcher`: Methods `register` and `unregister` can once again be called in
